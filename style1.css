@@ -1,0 +1,21 @@
+h1,h2,h3,h4,h5,h6{
+    color: aqua;border: 5px solid black; 
+    text-align: center;
+
+}
+ol,li,ul{
+    color: rgb(255, 0, 157);border: 5px solid rgb(253, 5, 5); 
+    text-align: center;
+}
+main,div,footer,section{
+    color: rgb(254, 254, 254);border: 5px solid rgb(20, 252, 4); 
+    text-align: center;    
+}
+table,th,td,tr{
+    color: rgb(43, 0, 255);border: 5px solid rgb(0, 217, 255); 
+    text-align: center;
+}
+body, main, div, head{
+    color: rgb(67, 7, 112);border: 5px solid rgb(255, 255, 255); 
+    text-align: center;
+}
